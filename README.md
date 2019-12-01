@@ -1,5 +1,5 @@
 # Chatfirebase
-A simple chat App using firebase realtime database.
+A simple chat App using Google firebase and realtime database.
 
 Multiple message java threads to synchronize different user messages. 
 
